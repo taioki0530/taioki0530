@@ -2,12 +2,8 @@
 
 # 👋 Hi, I'm Taisei Okino / 沖野泰征
 
-**Biomedical Engineer × AI Developer**  
 Doshisha University Graduate School | M1 | Tissue Engineering Lab
 
-[![Gmail](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=apple&logoColor=white)](mailto:taioki.0530@icloud.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/taioki0530)
-[![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/taioki0530)
 
 </div>
 
