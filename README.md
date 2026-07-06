@@ -54,11 +54,3 @@ Doshisha University Graduate School | M1 | Tissue Engineering Lab
 - 🤖 NYUv2 RGBD Semantic Segmentation — mIoU 0.75+ (SegFormer / Swin Transformer)
 
 ---
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
