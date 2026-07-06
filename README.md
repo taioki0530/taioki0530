@@ -55,36 +55,6 @@ Doshisha University Graduate School | M1 | Tissue Engineering Lab
 
 ---
 
-## 📚 Completed Courses (松尾岩澤研究室)
-
-| Course | Result |
-|--------|--------|
-| Deep Learning基礎講座 2025秋 | 最終コンペ 4位 |
-| AIと半導体講座 | 優秀生認定 |
-| 世界モデル講座 | 修了 |
-| 金融市場取引と機械学習講座 | 修了 |
-
----
-
-## 📂 Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| **Training Tracker App** | Flutter · Supabase | トレーニング記録アプリ（開発中） |
-| **IR Document Analyzer** | Python · LLM · ngrok | 決算資料PDF要約ツール |
-| **engineering-notes** | Markdown | 学習内容の体系化ノート |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taioki0530&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taioki0530&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=taioki0530&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
